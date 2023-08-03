@@ -55,15 +55,26 @@ Finally, don’t be surprised when they withhold the crown jewels from you. It�
 1.	Review the Request for Software – When your organization is evaluating new software or services, there should generally be a process for informing information security and receiving a recommendation for use or implementation. Cybersecurity and IT should review the request and begin documenting an evaluation in writing.
 2.	Document service name, versions, and use case – Ensure that IT and cybersecurity understand the software or service requested and what the organization will use it for. What is the service supposed to accomplish? Why is it valuable to the team? How will it be used? Who will use it?
 3.	Gather information – Research, conduct interviews, and review security questionnaires as appropriate to gather the following:
-  a.	Key Security Features – Does the vendor provide security features you consider key such as MFA, SSO, etc? 
-  b.	Regulations and Certifications – Does the vendor maintain certifications that match your risk tolerance/appetite and support your compliance requirements.
-  c.	Security and Risk Controls – What security controls does the vendor provide to you? How do they secure your access? Their admins’ access? How do they control, store, process, or use your data? 
-  d.	IT and Security Operations – How well do the vendor’s IT and security shops operate? Are they one-person shows? Or do they have a resilient team? Are services highly available and resilient? Are they well maintained? What does the security team do to identify and triage events? How do they respond to alerts?
-  e.	Security Testing – Does the vendor openly and transparently talk about their security testing, external audits, and the results? Do they talk about how they remediate negative findings during testing? Keep in mind that mistakes are normal; look for vendors who fix their mistakes quickly and honestly. 
-  f.	Security Whitepapers – What does the vendor say about their own security program and engineering? 
-  g.	Security Engineering/Product Roadmap – Does the vendor publish a roadmap which demonstrates how the product will develop? Will it continue to match your use cases? When will they implement a critical but missing security feature?
-  h.	Third-party dependencies and partnerships – Review ownership, partnerships, and information sharing agreements the company has (you can generally find this information with search engines or by skimming the terms of service. You may need to review business information sites like Crunchbase or check Terms of Service Didn’t Read (https://tosdr.org/) for help on this step)
-  i.	Reputation – What is the reputation of the company with other users? Check review sites, the Better Business Bureau, etc for complaints against the company. Look for press releases where the vendor responds to negative circumstances and allegations. Google “{software/company name} sucks” and see what interesting results pop up. 
-  j.	Known Breaches and CVEs – Look to see how breaches are handled by the service provider. How did the response go? Did they inform users? Did they release thorough and honest press releases? Or did they try to bury the event? What vulnerabilities are known in their software? How do they fix them and how quickly? Google “{software name} CVE” to quickly locate common vulnerabilities and exploits or search the National Vulnerability Database (https://nvd.nist.gov/search) and MITRE’s CVE List (https://cve.mitre.org/cve/search_cve_list.html) 
-4.	Evaluate information – Determine if the software or service matches your organizations’ needs, risk appetite, and risk tolerance. 
-5.	Write a recommendation – Write a written recommendation to IT and procurement codifying your risk assessment. Store this recommendation in a searchable manner according to your knowledge management processes. 
+
+     a.	Key Security Features – Does the vendor provide security features you consider key such as MFA, SSO, etc?
+  	
+     b.	Regulations and Certifications – Does the vendor maintain certifications that match your risk tolerance/appetite and support your compliance requirements.
+  	
+     c.	Security and Risk Controls – What security controls does the vendor provide to you? How do they secure your access? Their admins’ access? How do they control, store, process, or use your data?
+  	
+     d.	IT and Security Operations – How well do the vendor’s IT and security shops operate? Are they one-person shows? Or do they have a resilient team? Are services highly available and resilient? Are they well maintained? What does the security team do to identify and triage events? How do they respond to alerts?
+  	
+     e.	Security Testing – Does the vendor openly and transparently talk about their security testing, external audits, and the results? Do they talk about how they remediate negative findings during testing? Keep in mind that mistakes are normal; look for vendors who fix their mistakes quickly and honestly.
+  	
+     f.	Security Whitepapers – What does the vendor say about their own security program and engineering?
+  	
+     g.	Security Engineering/Product Roadmap – Does the vendor publish a roadmap which demonstrates how the product will develop? Will it continue to match your use cases? When will they implement a critical but missing security feature?
+  	
+     h.	Third-party dependencies and partnerships – Review ownership, partnerships, and information sharing agreements the company has (you can generally find this information with search engines or by skimming the terms of service. You may need to review business information sites like Crunchbase or check Terms of Service Didn’t Read (https://tosdr.org/) for help on this step)
+
+     i.	Reputation – What is the reputation of the company with other users? Check review sites, the Better Business Bureau, etc for complaints against the company. Look for press releases where the vendor responds to negative circumstances and allegations. Google “{software/company name} sucks” and see what interesting results pop up.
+  	
+     j.	Known Breaches and CVEs – Look to see how breaches are handled by the service provider. How did the response go? Did they inform users? Did they release thorough and honest press releases? Or did they try to bury the event? What vulnerabilities are known in their software? How do they fix them and how quickly? Google “{software name} CVE” to quickly locate common vulnerabilities and exploits or search the National Vulnerability Database (https://nvd.nist.gov/search) and MITRE’s CVE List (https://cve.mitre.org/cve/search_cve_list.html)
+  	
+5.	Evaluate information – Determine if the software or service matches your organizations’ needs, risk appetite, and risk tolerance. 
+6.	Write a recommendation – Write a written recommendation to IT and procurement codifying your risk assessment. Store this recommendation in a searchable manner according to your knowledge management processes. 
