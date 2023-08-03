@@ -10,9 +10,9 @@ Special thanks to Corey Keeting, Hilton D., and Stephen Peterson in reviewing an
 This repository is intended to give you tools to engage vendors—particularly SaaS vendors—about their security before agreeing to purchase their product. 
 
 There are three components:
-1.	Vendor Review Process – Steps to take/consider while evaluating a vendor during procurement.
-2.	Vendor Security Questionnaire – Questions you can use to gather information on a vendor as a document that you can send to vendors
-3.	Vendor Security Questionnaire Answers – The “answer key” to the questionnaire, intending to give you a foundation for evaluating your vendors’ responses. 
+1.	Vendor Review Process (This page) – Steps to take/consider while evaluating a vendor during procurement 
+2.	[Vendor Security Questionnaire](/DOCX/) – Questions you can use to gather information on a vendor as a document that you can send to vendors
+3.	[Vendor Security Questionnaire Answers](/DOCX/) – The “answer key” to the questionnaire, intending to give you a foundation for evaluating your vendors’ responses. 
 
 This project is not intended to be all inclusive. You may need to add or remove questions to match your needs.
 
