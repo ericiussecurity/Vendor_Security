@@ -28,7 +28,7 @@ To contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 ## HOW TO GET QUESTIONS ANSWERED
 The process below and the questionnaire are guides for information gathering and research, not strict tasks that must be completed. It is more important that you understand the vendor, satisfy your risk management requirements, and do your due diligence than that you get the vendor to take the time to pen the answers themselves. 
 
-Use the information you gather to make sure that vendors take information security seriously and has cybersecurity a program in place that includes adequate people, policies, processes, and tools. 
+Use the information you gather to make sure that vendors take information security seriously and have a cybersecurity program in place that includes adequate people, policies, processes, and tools. 
 
 As an information security practitioner, keep in mind you’re doing due diligence, assessing risk, and making a recommendation (hopefully in writing!) to your team and/or boss. After gathering all of the information and doing all the research, are you confident…
 -	…that the vendor will keep your data safe?
